@@ -1,6 +1,6 @@
 import React from "react";
 import SingleTeamMember from "../../../About/Components/Team/SingleTeamMember/SingleTeamMember";
-import Team from "../../../About/Components/Team/Team";
+
 import "./TeamMembersPhotos.css";
 
 const TeamMembersPhotos = () => {
