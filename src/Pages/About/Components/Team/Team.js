@@ -1,4 +1,6 @@
+import { Button } from "@material-ui/core";
 import React from "react";
+import { Link } from "react-router-dom";
 import "./Team.css";
 
 const Team = () => {
@@ -131,6 +133,11 @@ const Team = () => {
               </div>
             </div>
           </div>
+        </div>
+        <div className="py-4 d-flex justify-content-center">
+          <Link className="view-more-btn" to="/all-team-members">
+            <Button>View More</Button>
+          </Link>
         </div>
       </section>
     </div>

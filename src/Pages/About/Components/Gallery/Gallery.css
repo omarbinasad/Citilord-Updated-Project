@@ -45,6 +45,11 @@
 .gallery-image:hover {
   transform: scale(1.15);
 }
+.view-more-btn {
+  text-decoration: none !important;
+  background-color: #dfab00;
+  border-radius: 3px;
+}
 
 /*
 
