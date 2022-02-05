@@ -1,9 +1,3 @@
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
-
 .img-gallery-container {
   max-width: 100rem;
   margin: 0 auto;
